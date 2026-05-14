@@ -25,7 +25,7 @@ OverdueStudents:https://github.com/chaithrashree2812-star/AdvancedJave-CollegeFe
 PaymentAddedSuccessfully:https://github.com/chaithrashree2812-star/AdvancedJave-CollegeFeePayment/blob/9c811b0f9a19f1536cc57d4272623e21e42706ee/src/main/PaymentAddedSuccessfully%20(1).png
 
 
-PaymentDeletedSuccessfully:
+PaymentDeletedSuccessfully:https://github.com/chaithrashree2812-star/AdvancedJave-CollegeFeePayment/blob/bde602fcfcf4ff5582ffe06de93376eed714bd5a/src/main/PaymentDeletedSuccessfully%20(1).png
 
 
 PaymentOptions:
