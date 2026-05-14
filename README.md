@@ -37,7 +37,7 @@ https://github.com/chaithrashree2812-star/AdvancedJave-CollegeFeePayment/blob/17
 Reports:https://github.com/chaithrashree2812-star/AdvancedJave-CollegeFeePayment/blob/fe3c9dbbb1eb0666bd07b7e7a7ffe030ac5f3be3/src/main/Reports%20(1).png
 
 
-TotalCollection:
+TotalCollection:https://github.com/chaithrashree2812-star/AdvancedJave-CollegeFeePayment/blob/f3d2fa08965484dcadc86d1ca3a39337127ddd23/src/main/TotalCollection%20(1).png
 
 
 
