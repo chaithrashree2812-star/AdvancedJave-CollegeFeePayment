@@ -16,7 +16,7 @@ DeleteConfirmation:https://github.com/chaithrashree2812-star/AdvancedJave-Colleg
 
 
 DeletePayment:
-
+https://github.com/chaithrashree2812-star/AdvancedJave-CollegeFeePayment/blob/84b7b0f0e08769fc66b5918f0a11dd0275467e65/src/main/DeletePayment%20(1).png
 
 
 OverdueStudents:
