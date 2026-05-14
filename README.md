@@ -28,7 +28,7 @@ PaymentAddedSuccessfully:https://github.com/chaithrashree2812-star/AdvancedJave-
 PaymentDeletedSuccessfully:https://github.com/chaithrashree2812-star/AdvancedJave-CollegeFeePayment/blob/bde602fcfcf4ff5582ffe06de93376eed714bd5a/src/main/PaymentDeletedSuccessfully%20(1).png
 
 
-PaymentOptions:
+PaymentOptions:https://github.com/chaithrashree2812-star/AdvancedJave-CollegeFeePayment/blob/99f49620ae970699907d9057a07937c4a3267f5b/src/main/PaymentOptions%20(1).png
 
 
 PaymentUpdatedSucessfully:
