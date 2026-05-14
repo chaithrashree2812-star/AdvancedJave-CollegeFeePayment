@@ -56,7 +56,7 @@ UpdatePayment:https://github.com/chaithrashree2812-star/AdvancedJave-CollegeFeeP
 UpdatedRecord(1):https://github.com/chaithrashree2812-star/AdvancedJave-CollegeFeePayment/blob/011b3e24141b2f3318bceb5118309ba10661d7c7/src/main/UpdatedRecords%20(1).png
 
 
-UpdatedRecords(2):
+UpdatedRecords(2):https://github.com/chaithrashree2812-star/AdvancedJave-CollegeFeePayment/blob/875e781532274db67808e7e38b222b2356523581/src/main/UpdatedRecords%20(2).png
 
 
 
