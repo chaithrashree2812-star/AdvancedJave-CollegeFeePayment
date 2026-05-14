@@ -60,7 +60,7 @@ UpdatedRecords(2):https://github.com/chaithrashree2812-star/AdvancedJave-College
 
 
 
-ViewRecordsAfterDelete:
+ViewRecordsAfterDelete:https://github.com/chaithrashree2812-star/AdvancedJave-CollegeFeePayment/blob/725b15b8f5880abb8c843736514af17a37effe7a/src/main/ViewRecordsAfterDelete%20(1).png
 
 
 
